@@ -27,7 +27,7 @@ function setup() {
   button.position(width / 2, height - 100);
   button.class("blowButton");
 
-  //button.mousePressed(blow);
+  button.mousePressed(blow);
   
   //button.mousePressed();
 
